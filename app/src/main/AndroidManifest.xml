@@ -18,9 +18,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <meta-data
             android:name="io.fabric.ApiKey"
             android:value="a289ad793035c875c937c75cff8e0d37060d79ed" />
+=======
+        <activity android:name=".ActivityRob"></activity>
+>>>>>>> 95da3ad12cae7ca6f6999cb42a0b1e0ee1285f4f
     </application>
 
     <uses-permission android:name="android.permission.INTERNET" />
